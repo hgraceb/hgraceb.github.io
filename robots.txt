@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www..com/sitemap.xml
-Sitemap: http://www..com/baidusitemap.xml
+Sitemap: https://hgraceb.github.io/sitemap.xml
+Sitemap: https://hgraceb.github.io/baidusitemap.xml
