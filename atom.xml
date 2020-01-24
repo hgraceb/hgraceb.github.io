@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hgraceb.github.io/"/>
-  <updated>2020-01-24T06:35:54.267Z</updated>
+  <updated>2020-01-24T06:49:16.178Z</updated>
   <id>https://hgraceb.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hgraceb.github.io/2020/01/24/hello-world/"/>
     <id>https://hgraceb.github.io/2020/01/24/hello-world/</id>
     <published>2020-01-24T05:38:12.282Z</published>
-    <updated>2020-01-24T06:35:54.267Z</updated>
+    <updated>2020-01-24T06:49:16.178Z</updated>
     
     <summary type="html">
     
@@ -39,7 +39,7 @@
     
       <category term="Hexo" scheme="https://hgraceb.github.io/tags/Hexo/"/>
     
-      <category term="Github Pages" scheme="https://hgraceb.github.io/tags/Github-Pages/"/>
+      <category term="Github" scheme="https://hgraceb.github.io/tags/Github/"/>
     
   </entry>
   
