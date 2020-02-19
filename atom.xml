@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hgraceb.github.io/"/>
-  <updated>2020-01-24T08:36:33.618Z</updated>
+  <updated>2020-02-19T17:31:27.419Z</updated>
   <id>https://hgraceb.github.io/</id>
   
   <author>
@@ -17,29 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>如何搭建这个博客</title>
+    <title>FLop Mine</title>
     <link href="https://hgraceb.github.io/posts/a12074b6/"/>
     <id>https://hgraceb.github.io/posts/a12074b6/</id>
     <published>2020-01-24T11:22:17.631Z</published>
-    <updated>2020-01-24T08:36:33.618Z</updated>
+    <updated>2020-02-19T17:31:27.419Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;FLop-Mine&quot;&gt;&lt;a href=&quot;#FLop-Mine&quot; class=&quot;headerlink&quot; title=&quot;FLop Mine&quot;&gt;&lt;/a&gt;FLop Mine&lt;/h1&gt;&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
     
       <category term="学习" scheme="https://hgraceb.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="网页" scheme="https://hgraceb.github.io/categories/%E5%AD%A6%E4%B9%A0/%E7%BD%91%E9%A1%B5/"/>
+      <category term="Android" scheme="https://hgraceb.github.io/categories/%E5%AD%A6%E4%B9%A0/Android/"/>
     
-    
-      <category term="Blog" scheme="https://hgraceb.github.io/tags/Blog/"/>
-    
-      <category term="Hexo" scheme="https://hgraceb.github.io/tags/Hexo/"/>
     
       <category term="Github" scheme="https://hgraceb.github.io/tags/Github/"/>
+    
+      <category term="Minesweeper" scheme="https://hgraceb.github.io/tags/Minesweeper/"/>
+    
+      <category term="Android" scheme="https://hgraceb.github.io/tags/Android/"/>
     
   </entry>
   
